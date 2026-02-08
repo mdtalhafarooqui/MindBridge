@@ -7,7 +7,7 @@ export default function About() {
       <section className="gradient-hero py-20">
         <div className="container max-w-2xl text-center">
           <h1 className="font-heading text-3xl md:text-4xl font-bold mb-4">About MindBridge</h1>
-          <p className="text-muted-foreground leading-relaxed">A purpose-driven digital health system designed for the Smart India Hackathon, addressing the growing mental health crisis among Indian students.</p>
+          <p className="text-muted-foreground leading-relaxed">A purpose-driven digital health system addressing the growing mental health crisis among Indian students.</p>
         </div>
       </section>
 
@@ -29,9 +29,9 @@ export default function About() {
           </div>
 
           <div className="card-calm">
-            <h2 className="font-heading text-xl font-bold mb-3">SIH Relevance</h2>
+            <h2 className="font-heading text-xl font-bold mb-3">Impact and Scalability</h2>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              This solution directly addresses SIH's focus on technology for social good. It demonstrates scalable architecture, data-driven decision making, and real-world impact potential. MindBridge is designed to expand from a single institute to a national-level deployment, with upgrade paths to cloud databases, AI-powered chat, and institutional admin dashboards.
+              This solution demonstrates scalable architecture, data-driven decision making, and real-world impact potential. MindBridge is designed to expand from a single institute to a national-level deployment, with upgrade paths to cloud databases, AI-powered chat, and institutional admin dashboards.
             </p>
           </div>
         </div>
@@ -46,7 +46,7 @@ export default function About() {
               MT
             </div>
             <h3 className="font-heading text-xl font-bold mb-1">Mohammed Talha Farooqui</h3>
-            <p className="text-sm text-muted-foreground mb-4">Full-Stack Developer · SIH Participant</p>
+            <p className="text-sm text-muted-foreground mb-4">Full-Stack Developer</p>
             <div className="flex justify-center gap-3">
               <a href="mailto:mohammedtalhafarooqui@gmail.com" className="bg-muted p-2.5 rounded-lg hover:bg-primary/10 transition-colors" title="Email">
                 <Mail className="h-4 w-4" />
