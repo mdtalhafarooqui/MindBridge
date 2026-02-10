@@ -74,7 +74,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       <footer className="border-t bg-muted/50 py-8">
         <div className="container text-center text-sm text-muted-foreground">
           <p className="mb-2 font-medium">⚠️ Disclaimer: MindBridge is a support tool, not a replacement for professional medical advice or treatment.</p>
-          <p>© 2025 MindBridge · Built for Smart India Hackathon</p>
+          <p>© MindBridge By Mohammed Talha Farooqui</p>
         </div>
       </footer>
     </div>
